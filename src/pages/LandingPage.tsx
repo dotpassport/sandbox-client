@@ -133,7 +133,7 @@ export function LandingPage() {
           <p>
             Need help?{' '}
             <a
-              href="https://docs.dotpassport.com"
+              href="https://docs.dotpassport.io"
               target="_blank"
               rel="noopener noreferrer"
               className="text-purple-600 hover:text-purple-700 font-medium transition-colors duration-200"
